@@ -1,0 +1,18 @@
+{
+  "name": "write-to-excel",
+  "version": "1.0.0",
+  "description": "A sample programe to write to excel collecting all the images from a pre defined directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "excel"
+  ],
+  "author": "sofikulM",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^1.2.1"
+  }
+}
